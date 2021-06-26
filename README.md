@@ -1,4 +1,4 @@
-# accelerometer
+# Introduction
 A simple application that uses an accelerometer, temperature and humidity sensors.
-# Installation
+# Getting Started
 I wrote this application through a virtual Pixel 4 XL API 23 device with Marshmallow 23
