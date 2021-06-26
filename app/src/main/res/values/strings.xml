@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Akcelerometr</string>
+    <string name="X_axis">X-axis</string>
+    <string name="Y_axis">Y-axis</string>
+    <string name="Z_axis">Z-axis</string>
+    <string name="humidity_sensor">Relative humidity (%):</string>
+    <string name="temperature_sensor">Ambient temperature (°C):</string>
+    <string name="values">value</string>
+</resources>
